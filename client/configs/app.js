@@ -1,3 +1,6 @@
-/**
- * Created by greg on 3/3/16.
- */
+export default {
+
+    name: 'Impossible List',
+    vers: '0.0.1'
+
+}
