@@ -25,3 +25,4 @@ random
 twbs:bootstrap
 accounts-password
 msavin:mongol
+momentjs:moment
