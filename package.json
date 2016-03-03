@@ -14,19 +14,22 @@
     "babel-preset-react": "6.x.x",
     "babel-preset-stage-2": "6.x.x",
     "babel-root-slash-import": "1.x.x",
-    "chai": "3.x.x",
+    "chai": "^3.5.0",
     "enzyme": "1.x.x",
     "eslint": "1.10.x",
     "eslint-plugin-react": "3.15.x",
-    "mocha": "2.x.x",
+    "mocha": "^2.4.5",
+    "moment": "^2.11.2",
     "react-addons-test-utils": "^0.14.6",
-    "sinon": "1.17.x"
+    "sinon": "^1.17.3",
+    "sinon-chai": "^2.8.0"
   },
   "dependencies": {
     "domready": "^1.0.8",
-    "react": "^0.14.6",
-    "react-dom": "^0.14.6",
     "mantra-core": "^1.2.0",
+    "react": "^0.14.6",
+    "react-bootstrap-datetimepicker": "0.0.22",
+    "react-dom": "^0.14.6",
     "react-mounter": "^1.0.0"
   },
   "private": true
